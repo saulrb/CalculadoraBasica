@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">M4_SRB__EJE_Calculadora</string>
+    <string name="suma_btn">Sumar</string>
+    <string name="resta_btn">Restar</string>
+    <string name="multiplica_btn">Multiplicar</string>
+    <string name="dividir_btn">Dividir</string>
+    <string name="limpiar_btn">Limpiar</string>
+    <string name="input_help">Ingresar Numero</string>
+    <string name="resultado_help">Resultado</string>
+    <string name="information">Acerca de </string>
+    <string name="autor_info">Autor: Saul Rosales Bautista</string>
+    <string name="operaciones">Cantidad de Operaciones:</string>
+</resources>
